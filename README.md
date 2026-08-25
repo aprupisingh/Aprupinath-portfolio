@@ -112,7 +112,7 @@ Analysis of IPL match and player data to identify trends and performance insight
 ## 📈 Portfolio Website
 
 🌐 **Visit my portfolio:**  
-aprupinath-portfolio-3t7yp9kvo-singhaprupinath-7917s-projects.vercel.app
+[Portfolio Website](aprupinath-portfolio-3t7yp9kvo-singhaprupinath-7917s-projects.vercel.app)
 
 ---
 
