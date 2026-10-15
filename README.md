@@ -14,7 +14,7 @@ I am a Computer Engineering student passionate about Data Analytics, Business In
 I enjoy working with data to discover meaningful insights and solve real-world business problems.
 
 - 📊 Interested in Data Analytics & Business Intelligence
-- 🐍 Working with Python for data analysis
+- 🐍 Working with Python for data analysis 
 - 🗄️ Strong interest in SQL and database analysis
 - 📈 Creating interactive dashboards and visualizations
 - 💡 Interested in solving real-world problems using data
